@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "talbots", "talbots\talbots.vfproj", "{B5E0790C-401F-4A37-BB6C-7DD954576158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E0790C-401F-4A37-BB6C-7DD954576158}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5E0790C-401F-4A37-BB6C-7DD954576158}.Debug|x86.Build.0 = Debug|Win32
+		{B5E0790C-401F-4A37-BB6C-7DD954576158}.Release|x86.ActiveCfg = Release|Win32
+		{B5E0790C-401F-4A37-BB6C-7DD954576158}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCFF62F-E7A3-4531-A9E0-167765501968}
+	EndGlobalSection
+EndGlobal
